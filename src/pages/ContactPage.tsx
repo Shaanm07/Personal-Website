@@ -24,7 +24,7 @@ const contactLinks = [
     label: 'LinkedIn',
     description: 'Connect professionally',
     icon: Linkedin,
-    url: 'https://www.linkedin.com/in/shaan-mehta-bb06a0234/',
+    url: 'https://www.linkedin.com/in/shaanmehta07/',
     color: 'from-blue-600/20 to-blue-800/20',
     hoverBorder: 'hover:border-blue-400',
     iconBg: 'bg-blue-700/50'
