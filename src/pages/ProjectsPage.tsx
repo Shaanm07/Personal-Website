@@ -22,7 +22,7 @@ const projects = [
     title: 'AI Mock Interviewer',
     description: 'Mock interview robot that simulates realistic job interviews and gives intelligent feedback and scoring.',
     image: MockInterviewImg,
-    githubUrl: 'https://github.com/Shaanm07/AI-Mock-Interviewer',
+    githubUrl: 'https://github.com/shaanmehta/AI-Mock-Interviewer',
     tags: ['Voice/Facial Recognition', 'Position-specific questions', 'OpenAI API']
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     title: 'Electric Bike',
     description: 'Eco-friendly electric bike with a TFT-like dashboard.',
     image: ElectriumImg,
-    githubUrl: 'https://github.com/Shaanm07/Electrium-Mobility-E-Bike',
+    githubUrl: 'https://github.com/shaanmehta/Electrium-Mobility-E-Bike',
     tags: ['Battery Tracker', 'Speed Display', 'Distance Tracker']
   },
   {
@@ -38,7 +38,7 @@ const projects = [
     title: 'Robotic Poker Player',
     description: 'Fully automated card dealing & playing poker robot.',
     image: cardDealerImg,
-    githubUrl: 'https://github.com/Shaanm07/Robotic-Poker-Player',
+    githubUrl: 'https://github.com/shaanmehta/Robotic-Poker-Player',
     tags: ['Integrated Betting System', '360 degree rotation']
   },
   {
@@ -61,7 +61,7 @@ const projects = [
     title: 'ANC Converter',
     description: 'Noise reduction in digital audio samples using Fourier theory.',
     image: ANCconverterImg,
-    githubUrl: 'https://github.com/Shaanm07/Noise-Reduction',
+    githubUrl: 'https://github.com/shaanmehta/Noise-Reduction',
     tags: ['Fourier Transform', 'Matplotlib', 'Adaptive Filters']
   }
 ];
