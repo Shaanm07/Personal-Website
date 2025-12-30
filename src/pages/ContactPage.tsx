@@ -14,7 +14,7 @@ const contactLinks = [
     label: 'GitHub',
     description: 'Check out my code & projects',
     icon: Github,
-    url: 'https://github.com/Shaanm07',
+    url: 'https://github.com/shaanmehta',
     color: 'from-gray-600/20 to-gray-800/20',
     hoverBorder: 'hover:border-gray-400',
     iconBg: 'bg-gray-700/50'
